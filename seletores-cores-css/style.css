@@ -1,0 +1,24 @@
+.header{
+    display: flex;
+    margin:0;
+    padding: 0;
+    justify-content: center;
+    align-items: center;
+}
+.header h1{
+    color:#0000ff;
+}
+.header span{
+    color:#ffffff;
+    background-color: #0000ff;
+}
+
+.box{
+    color:#001e32;
+    background-color:#e3e3e3;
+    text-align: center;
+   }
+#box2{
+    color: #e3e3e3;
+    background-color: #001e32;
+}
